@@ -1,0 +1,22 @@
+ INSTALLING IN (TERMUX APP)
+
+First install { Termux } from Playstore.
+
+After opening Follow below commands One by one
+
+pkg install git python php curl openssh grep
+
+pip3 install wget
+
+git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git
+
+chmod 777 HiddenEye
+
+cd HiddenEye
+
+python HiddenEye.py
+
+or
+
+./HiddenEye.py
+
